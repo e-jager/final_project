@@ -1,1 +1,4 @@
-# final_project
+![alt text](images/sunsetparkl.jpg)
+# Final Project
+Em Jager
+
